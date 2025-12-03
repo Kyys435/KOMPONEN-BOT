@@ -1,0 +1,2 @@
+# KOMPONEN-BOT
+gaada
